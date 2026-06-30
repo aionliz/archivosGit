@@ -1,1 +1,3 @@
 primera clase de git 
+
+cree un archivo o un texto en la rama B
